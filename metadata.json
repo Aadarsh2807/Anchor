@@ -1,0 +1,7 @@
+{
+  "name": "Anchor - Premium Utility OS",
+  "description": "A high-precision vehicle security and parking utility app with real-time GPS tracking and live monitoring.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
